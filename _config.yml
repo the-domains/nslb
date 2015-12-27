@@ -1,0 +1,28 @@
+name: NSLB
+favicon: null
+layout_spectrum: 0.3908330351114273
+typography_spectrum: 0.6211402490735054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.19153336598537862
+  lightness: 0.970194777008146
+  saturation: 0.23158991476520896
+  rhythmicContrast: 0.9801301578991115
+purpose: []
